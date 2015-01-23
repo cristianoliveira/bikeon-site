@@ -1,0 +1,9 @@
+/home/ubuntu/.rvm/rubies/ruby-2.2.0/bin/ruby -r ./siteconf20150123-23068-115phdk.rb extconf.rb 
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+make "DESTDIR=" install
